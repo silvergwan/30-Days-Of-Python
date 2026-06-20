@@ -19,9 +19,16 @@ print(result)
 ## 2
 company = "ScatterLab"
 print(company[0:7])
+print(company[7:])
 
 ## 3
 hw = "hello world"
+
 print(hw.upper())
+## HELLO WORLD
+
 print(hw.title())
+## Hello World
+
 print(hw.split())
+## ['hello', 'world']
