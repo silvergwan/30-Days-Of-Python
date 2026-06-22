@@ -1,6 +1,6 @@
 '''
 
-과제 2 — while문
+과제 1 — while문
 이제 짜보세요:
 
 while문으로 1부터 5까지 순서대로 출력하기
@@ -21,12 +21,9 @@ while n <= 5:
     print(n)
     n += 1
 
-## 변수 초기화
-n = 1
-
 ## 2
 while total <= 20:
     total += n
     n += 1
 
-print(n-1, total)
+print(total)
