@@ -17,6 +17,10 @@ sum = 0
 for i in range(len(numbers)):
     print(numbers[i]*2)
 
+## 1(다른 방법)
+for i in numbers:
+    print(i * 2)
+
 ## 2
 for i in range(len(numbers)):
     sum += numbers[i]
