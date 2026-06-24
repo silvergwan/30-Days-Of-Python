@@ -30,5 +30,3 @@ class Dog:
 dog = Dog("초코", 3)
 dog.bark()
 dog.info()
-
-
