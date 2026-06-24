@@ -53,4 +53,4 @@ def get_gaeverage(*args):
 print(square(5))
 print(get_max(3, 9))
 print(get_average([4, 7, 2, 9, 3]))
-print(get_gaeverage(4, 7, 2, 9, 3))     # 이렇게 호출하는 경우
+print(get_gaeverage(4, 7, 2, 9, 3))     # 이렇게 호출하는 경우'
